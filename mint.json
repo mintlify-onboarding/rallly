@@ -56,11 +56,12 @@
       "group": "Participants",
       "pages": [
         "participants/submitting-a-response",
-        "participants/editing-a-response",
-        "guest-sessions",
-        "privacy-and-security",
-        "self-hosting"
+        "participants/editing-a-response"
       ]
+    },
+    {
+      "group": "Other Docs",
+      "pages": ["guest-sessions", "privacy-and-security", "self-hosting"]
     }
   ],
   "footerSocials": {
